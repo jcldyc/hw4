@@ -1,0 +1,5 @@
+FALV|Fear And Loathing in Las Vegas (First Edition)|749.99|http://blogs.rep-am.com/special/files/2015/07/01_fea_fear-and-loathing.jpg
+TAOW|The Art of War|11.99|https://images-na.ssl-images-amazon.com/images/I/41rMcW9CloL._SX331_BO1,204,203,200_.jpg
+HPCF|Harry Potter Collection|45.99|http://i.ebayimg.com/images/g/ueUAAOSwOVpXXroc/s-l1600.jpg
+SGMT|The Shaolin Grandmasters' Text: History,Philosophy, and Gung Fu of Shaolin Ch'an|42.49|https://images-na.ssl-images-amazon.com/images/I/51U5Ch2PioL._SX346_BO1,204,203,200_.jpg
+SUPR|Action Comics No. 1|1000000.00|https://upload.wikimedia.org/wikipedia/en/5/5a/Action_Comics_1.jpg
